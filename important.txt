@@ -1,0 +1,4 @@
+docker logs -f social-pulse-app
+
+
+http://localhost:8501
